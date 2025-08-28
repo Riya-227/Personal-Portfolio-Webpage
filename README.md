@@ -30,5 +30,5 @@ In conclusion, this project taught me how to combine HTML for structure, CSS for
 
 Output :
 
-
-
+<img width="2560" height="1664" alt="image" src="https://github.com/user-attachments/assets/0690e929-53e1-4d6b-9ed5-5be51fdba5c0" />
+<img width="2560" height="1664" alt="image" src="https://github.com/user-attachments/assets/71bc80dd-7991-4283-bc84-4730909fd038" />
